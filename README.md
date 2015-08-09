@@ -32,7 +32,7 @@ $ make
 ```
 $ sudo apt-get install make binutils autoconf  automake autotools-dev libtool pkg-config \
 zlib1g-dev libcunit1-dev libssl-dev libxml2-dev libev-dev libevent-dev libjansson-dev \
-libjemalloc-dev cython python3.4-dev g++ python-setuptools
+libjemalloc-dev cython python3.4-dev g++ python-setuptools git
 ```
 
 ## gitを使ってインストール
